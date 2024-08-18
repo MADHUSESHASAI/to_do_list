@@ -1,8 +1,9 @@
 {
-  "homepage": "https//saimadhu123-svg.github.io/to_do_list",
+  "homepage": "https://saimadhu123-svg.github.io/to_do_list/",
   "name": "todolist",
   "version": "0.1.0",
   "private": true,
+  "main":"index.js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
