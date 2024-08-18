@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/http//saimadhu123-svg.github.io/to_do_list/static/css/main.b8d3d8d4.css",
+    "main.js": "/http//saimadhu123-svg.github.io/to_do_list/static/js/main.c626935d.js",
+    "static/js/453.59bb3b6d.chunk.js": "/http//saimadhu123-svg.github.io/to_do_list/static/js/453.59bb3b6d.chunk.js",
+    "index.html": "/http//saimadhu123-svg.github.io/to_do_list/index.html",
+    "main.b8d3d8d4.css.map": "/http//saimadhu123-svg.github.io/to_do_list/static/css/main.b8d3d8d4.css.map",
+    "main.c626935d.js.map": "/http//saimadhu123-svg.github.io/to_do_list/static/js/main.c626935d.js.map",
+    "453.59bb3b6d.chunk.js.map": "/http//saimadhu123-svg.github.io/to_do_list/static/js/453.59bb3b6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8d3d8d4.css",
+    "static/js/main.c626935d.js"
+  ]
+}
