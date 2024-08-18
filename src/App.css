@@ -33,8 +33,9 @@ input
   margin: 1vw;
   border-radius: 20px;
   height: 40px
-  
 }
+
+
 button
 {
   width: 25%;
@@ -47,6 +48,10 @@ input:hover, button:hover
 {
   cursor:pointer;
   box-shadow:  0 4px 8px 0 rgba(235, 232, 232, 0.2), 0 6px 20px 0 white;
+}
+input:hover
+{
+  cursor:text;
 }
 
 #box
